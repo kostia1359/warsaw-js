@@ -1,0 +1,2 @@
+Example1:
+Create tests for extractPatterns. Create 2 different tests for each pattern: one when the input string contains the pattern and one when it doesn't. 
